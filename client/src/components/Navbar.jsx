@@ -82,7 +82,7 @@ function MenuList({ user, onClick }) {
                     <AiOutlineLogout
                       className={`${
                         active ? "text-white" : "text-gray-600"
-                      } mr-2 h-5 w-5  `}
+                      } mr-2 h-5 w-5`}
                       aria-hidden='true'
                     />
                     Log Out
@@ -110,7 +110,7 @@ const Navbar = () => {
         <nav className='container mx-auto flex items-center justify-between p-5'>
           <div>
             <Link to='/' className='text-blue-600 font-bold text-xl'>
-              Job<span className='text-[#1677cccb]'>Finder</span>
+              Shop<span className='text-[#1677cccb]'>Rite</span>
             </Link>
           </div>
 
@@ -125,7 +125,7 @@ const Navbar = () => {
               <Link to='/upload-job'>Upload Job</Link>
             </li>
             <li>
-              <Link to='/about-us'>About</Link>
+              <Link to='/about-us'>About Us</Link>
             </li>
           </ul>
 

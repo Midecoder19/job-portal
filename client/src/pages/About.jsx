@@ -8,8 +8,8 @@ const About = () => {
         <div className='w-full md:2/3 2xl:w-2/4'>
           <h1 className='text-3xl text-blue-600 font-bold mb-5'>About Us</h1>
           <p className='text-justify leading-7'>
-            Microsoft Corporation and its contributors are available at
-            http://www.microsoft.com and at http://www.microsoft.com for more
+            Shoprite and its contributors are available at
+            http://www.shoprite.com and at http://www.shoprite.com for more
             information about the contributors and contributors to the Microsoft
             Corporation and its contributors to the Microsoft Corporation and
             its contributors to the Microsoft Corporation
